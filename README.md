@@ -19,7 +19,7 @@ Welcome to Todo CLI (Click Version). This is a simple cli application for keep t
 > NOTE: When using more than one word for the title or details, ensure to wrap them in "quotes" otherwise the program will only register the first word and error out on the rest
 
 - Creating A New ToDo Item
-  - <code>todo add "title" "details" priority_number</code>
+  - <code>4 add "title" "details" priority_number</code>
   - Example:
     - <code>todo add "Some Test Title" "Some Other Details" 3</code>
 
